@@ -31,3 +31,8 @@ C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraWeb\BestCompraW
 C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraWeb\BestCompraWeb\obj\Debug\netcoreapp2.2\BestCompraWeb.pdb
 C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraWeb\BestCompraWeb\obj\Debug\netcoreapp2.2\BestCompraWeb.genruntimeconfig.cache
 C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraWeb\BestCompraWeb\obj\Debug\netcoreapp2.2\BestCompraWeb.csproj.CopyComplete
+C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraWeb\BestCompraWeb\obj\Debug\netcoreapp2.2\Razor\Pages\Produtos\Create.cshtml.g.cs
+C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraWeb\BestCompraWeb\obj\Debug\netcoreapp2.2\Razor\Pages\Produtos\Delete.cshtml.g.cs
+C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraWeb\BestCompraWeb\obj\Debug\netcoreapp2.2\Razor\Pages\Produtos\Details.cshtml.g.cs
+C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraWeb\BestCompraWeb\obj\Debug\netcoreapp2.2\Razor\Pages\Produtos\Edit.cshtml.g.cs
+C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraWeb\BestCompraWeb\obj\Debug\netcoreapp2.2\Razor\Pages\Produtos\Index.cshtml.g.cs

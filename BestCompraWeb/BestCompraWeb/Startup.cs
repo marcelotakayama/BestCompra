@@ -31,7 +31,7 @@ namespace BestCompraWeb {
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
-    services.AddDbContext<BestCompraWebContext>(options =>
+            services.AddDbContext<BestCompraWebContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("BestCompraWebContext")));
         }
 

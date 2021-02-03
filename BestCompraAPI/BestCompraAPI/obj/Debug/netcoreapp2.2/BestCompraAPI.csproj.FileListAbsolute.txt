@@ -1,0 +1,17 @@
+C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraAPI\BestCompraAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraAPI\BestCompraAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraAPI\BestCompraAPI\bin\Debug\netcoreapp2.2\BestCompraAPI.deps.json
+C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraAPI\BestCompraAPI\bin\Debug\netcoreapp2.2\BestCompraAPI.runtimeconfig.json
+C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraAPI\BestCompraAPI\bin\Debug\netcoreapp2.2\BestCompraAPI.runtimeconfig.dev.json
+C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraAPI\BestCompraAPI\bin\Debug\netcoreapp2.2\BestCompraAPI.dll
+C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraAPI\BestCompraAPI\bin\Debug\netcoreapp2.2\BestCompraAPI.pdb
+C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraAPI\BestCompraAPI\obj\Debug\netcoreapp2.2\BestCompraAPI.csprojAssemblyReference.cache
+C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraAPI\BestCompraAPI\obj\Debug\netcoreapp2.2\BestCompraAPI.AssemblyInfoInputs.cache
+C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraAPI\BestCompraAPI\obj\Debug\netcoreapp2.2\BestCompraAPI.AssemblyInfo.cs
+C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraAPI\BestCompraAPI\obj\Debug\netcoreapp2.2\BestCompraAPI.csproj.CoreCompileInputs.cache
+C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraAPI\BestCompraAPI\obj\Debug\netcoreapp2.2\BestCompraAPI.RazorAssemblyInfo.cache
+C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraAPI\BestCompraAPI\obj\Debug\netcoreapp2.2\BestCompraAPI.RazorAssemblyInfo.cs
+C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraAPI\BestCompraAPI\obj\Debug\netcoreapp2.2\BestCompraAPI.RazorTargetAssemblyInfo.cache
+C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraAPI\BestCompraAPI\obj\Debug\netcoreapp2.2\BestCompraAPI.dll
+C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraAPI\BestCompraAPI\obj\Debug\netcoreapp2.2\BestCompraAPI.pdb
+C:\Users\mntakayama\Documents\Repositórios\BestCompra\BestCompraAPI\BestCompraAPI\obj\Debug\netcoreapp2.2\BestCompraAPI.genruntimeconfig.cache

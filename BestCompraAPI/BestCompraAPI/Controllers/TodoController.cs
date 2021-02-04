@@ -44,5 +44,16 @@ namespace BestCompraAPI.Controllers {
 
             return CreatedAtAction(nameof(GetTodoItem), new { id = item.Id }, item);
         }
+
+        [HttpPut("{id}")]
+        public async Task<ActionResult> PutTodoItem(long id, TodoItem item) {
+            if(id != item.Id) {
+                return BadRequest();
+            }
+            _context.Entry(item).State = EntityState.Modified;
+            await _context.SaveChangesAsync();
+
+            return NoContent();
+        }
     }
 }

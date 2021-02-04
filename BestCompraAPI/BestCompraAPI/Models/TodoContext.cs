@@ -9,6 +9,6 @@ namespace BestCompraAPI.Models {
         public TodoContext(DbContextOptions<TodoContext> options) : base(options) {
         }
 
-        public DbSet<TodoItem> todoItems { get; set; }
+        public DbSet<TodoItem> TodoItems { get; set; }
     }
 }

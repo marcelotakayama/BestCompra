@@ -64,7 +64,6 @@ function getData() {
     });
 }
 
-//555454545454445
 function addItem() {
     const item = {
         name: $("#add-name").val(),

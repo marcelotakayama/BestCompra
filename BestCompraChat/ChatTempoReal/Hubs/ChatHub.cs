@@ -8,3 +8,5 @@ namespace SignalRChat.Hubs {
         }
     }
 }
+
+//teste

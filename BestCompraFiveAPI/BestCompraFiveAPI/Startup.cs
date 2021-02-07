@@ -11,6 +11,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using BestCompraFiveAPI.Models;
 
 namespace BestCompraFiveAPI
 {
@@ -26,7 +28,7 @@ namespace BestCompraFiveAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
+            services.AddDbContext<TodoContext>(opt => opt.UseInMemoryDatabase("TodoList"));
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

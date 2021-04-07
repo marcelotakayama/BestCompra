@@ -8,5 +8,3 @@ namespace SignalRChat.Hubs {
         }
     }
 }
-
-//testea2

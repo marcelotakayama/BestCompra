@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hPGUY3WHDVZMs2XinhalEC2eh1c7lUyxmVwioecPYE0Kj+H7Pb2QL5rVZ8Js3HRnD9H5xumUyVGcweDkRsKxjA==",
+  "dgSpecHash": "qZt2GwEl/VI8FiKBkoBICoeuBjXoxKjShB7UxxS2NOVejiPrlpwrLoGKYi2tkzl2p8xNgCChQcygy4t7wkh4lg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marce\\Repositorios\\BestCompra\\BestCompraChat\\ChatTempoReal\\ChatTempoReal.csproj",
+  "projectFilePath": "D:\\Documentos\\Repositórios\\BestCompra\\BestCompraChat\\ChatTempoReal\\ChatTempoReal.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",
